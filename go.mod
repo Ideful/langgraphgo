@@ -1,4 +1,4 @@
-module github.com/tmc/langgraphgo
+module github.com/Delcin1/langgraphgo
 
 go 1.22
 
