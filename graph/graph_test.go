@@ -9,7 +9,7 @@ import (
 
 	"github.com/tmc/langchaingo/llms"
 	"github.com/tmc/langchaingo/llms/openai"
-	"github.com/tmc/langgraphgo/graph"
+	"github.com/Delcin1/langgraphgo/graph"
 )
 
 func ExampleMessageGraph() {
