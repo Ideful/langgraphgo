@@ -1,8 +1,10 @@
-module github.com/Delcin1/langgraphgo
+module github.com/Ideful/langgraphgo
 
-go 1.22
+go 1.22.0
 
-require github.com/tmc/langchaingo v0.1.9
+toolchain go1.23.2
+
+require github.com/Ideful/langchaingo v0.1.9
 
 require (
 	github.com/dlclark/regexp2 v1.10.0 // indirect

@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/tmc/langchaingo/llms"
+	"github.com/Ideful/langchaingo/llms"
 )
 
 // END is a special constant used to represent the end node in the graph.

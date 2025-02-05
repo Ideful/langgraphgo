@@ -1,6 +1,6 @@
 # 🦜️🔗 LangGraphGo
 
-[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/tmc/langgraphgo)
+[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/Ideful/langgraphgo)
 
 
 ## Quick Start
@@ -15,10 +15,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/llms/openai"
-	"github.com/tmc/langchaingo/schema"
-	"github.com/tmc/langgraphgo/graph"
+	"github.com/Ideful/langchaingo/llms"
+	"github.com/Ideful/langchaingo/llms/openai"
+	"github.com/Ideful/langchaingo/schema"
+	"github.com/Ideful/langgraphgo/graph"
 )
 
 func main() {
